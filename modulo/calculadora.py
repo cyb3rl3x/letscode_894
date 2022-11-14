@@ -6,3 +6,6 @@ def subtracao(x, y):
 
 def multiplicacao(x, y):
     return x*y
+    
+def divisai(x, y):
+    return x/y
