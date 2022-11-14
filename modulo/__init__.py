@@ -1,0 +1,1 @@
+print('módulo importado com sucesso.')
