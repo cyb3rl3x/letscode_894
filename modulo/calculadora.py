@@ -7,5 +7,8 @@ def subtracao(x, y):
 def multiplicacao(x, y):
     return x*y
     
-def divisai(x, y):
+def divisao(x, y):
     return x/y
+    
+def incremento(x):
+    return x+1
