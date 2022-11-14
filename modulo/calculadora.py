@@ -18,3 +18,5 @@ def decremento(x):
 
 def potenciacao(x, y):
     return x^y
+    
+    
