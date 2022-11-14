@@ -14,4 +14,7 @@ def incremento(x):
     return x+1
     
 def decremento(x):
-    return x-1    
+    return x-1
+
+def potenciacao(x, y):
+    return x^y
